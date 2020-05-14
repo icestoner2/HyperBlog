@@ -5,3 +5,5 @@ Gerson Garayar tiene 25 años y nacio en Peru, Lima
 Hoy hablaremos de su historia
 
 Es de talla media
+
+Hoy aprendemos Git
