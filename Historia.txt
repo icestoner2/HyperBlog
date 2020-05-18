@@ -1,9 +1,6 @@
-Esta es la historia de Gerson Garayar
+﻿Esta es la historia de Gerson Garayar
 
 Gerson Garayar tiene 25 años y nacio en Peru, Lima
 
-Hoy hablaremos de su historia
+Hoy hablaremos de su VIDA
 
-Es de talla media
-
-Hoy aprendemos Git
